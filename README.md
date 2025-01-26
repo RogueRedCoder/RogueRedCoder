@@ -12,8 +12,8 @@ I'm a passionate developer specializing in **ethical hacking**, **AI development
 ---
 
 ## 🚀 Key Projects
-- [🔐 Ethical Hacking Tools](https://github.com/YourUsername/Ethical-Hacking-Tools): A collection of ethical hacking scripts and utilities.
-- [🤖 AI Prompt Generator](https://github.com/YourUsername/AI-Prompt-Generator): Advanced AI model prompts.
+- [🔐 Ethical Hacking Tools]([https://github.com/RogueRedCoder/camra_hacking): A collection of ethical hacking scripts and utilities.
+
 
 ---
 
