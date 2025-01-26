@@ -12,7 +12,7 @@ I'm a passionate developer specializing in **ethical hacking**, **AI development
 ---
 
 ## 🚀 Key Projects
-- [🔐 Ethical Hacking Tools]([https://github.com/RogueRedCoder/camra_hacking): A collection of ethical hacking scripts and utilities.
+- [🔐 Ethical Hacking Tools]([https://github.com/RogueRedCoder/camra_hacking]): A collection of ethical hacking scripts and utilities.
 
 
 ---
